@@ -1,6 +1,6 @@
 'use strict';
 
-console.log("************* Task 2 - Shipping Message *************");
+console.log("************* Task 2 *************");
 
 function getShippingMessage(country, price, deliveryFee) {
     const totalPrice = price + deliveryFee;

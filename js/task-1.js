@@ -1,6 +1,6 @@
 'use strict';
   
-console.log("************* Task 1 - Shipping Message *************");
+console.log("************* Task 1 *************");
 
 function makeTransaction(quantity, pricePerItem) {
   const totalPrice = quantity * pricePerItem;

@@ -1,6 +1,6 @@
 'use strict';
 
-console.log("************* Task 3 - Shipping Message *************");
+console.log("************* Task 3 *************");
 
 function getElementWidth(content, padding, border) {
     return Number.parseFloat(content) + Number.parseFloat(padding) * 2 + Number.parseFloat(border) * 2;
